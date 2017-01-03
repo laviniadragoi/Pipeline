@@ -127,4 +127,4 @@ catch (exc) {
 }
 
 // vim: ft=groovy
-Contact GitHub API Training Shop Blog About
+
