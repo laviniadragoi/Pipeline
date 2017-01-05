@@ -1,8 +1,8 @@
 def exampleMethod() {
-    //do something
+    echo "exampleMethod"
 }
 
 def otherExampleMethod() {
-    //do something else
+     echo "otherExampleMethod"
 }
 return this
