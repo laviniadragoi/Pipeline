@@ -2,6 +2,7 @@
 
 node {
     checkout scm
+    echo "The repo was checked"
 }
 //is equivalent to something like this:
 /*
